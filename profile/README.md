@@ -12,7 +12,7 @@ TypeScript · React · Electron · Vite · Tailwind
 
 - **[Void Notes](https://github.com/brutal-build/VoidNotes)** — Local-first Markdown notepad with graph view
 - **[Brutal Memory](https://github.com/brutal-build/brutal-memory)** — Hermes Agent session browser
-- **[Brutal Shortener](https://brutal-shortener.vercel.app)** — Minimalist URL shortener with zero backend
+- **[Brutal Shortener](https://brutal-shortener.vercel.app)** — Client-side URL shortener (demo, localStorage-based)
 - **[Editor PDF (WIP)](https://github.com/brutal-build/Brutal-editor)** — In-browser PDF editor with brutalist UI
 
 ---
