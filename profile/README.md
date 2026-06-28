@@ -17,4 +17,4 @@ TypeScript · React · Electron · Vite · Tailwind
 
 ---
 
-[portfolio](https://brutalportfolio-three.vercel.app) Â· [Ko-fi](https://ko-fi.com/brutalbuild)
+[portfolio](https://brutalportfolio-three.vercel.app)  [Ko-fi](https://ko-fi.com/brutalbuild)
